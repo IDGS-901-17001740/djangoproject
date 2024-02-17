@@ -1,0 +1,9 @@
+--- Comandos python django
+crear entorno virtual:
+- descargar el entorno: pip install virtualenv
+- crear carpeta venv: virualenv venv
+- activar: .\venv\Scripts\activate
+- activar interprete en vscode: select interptreter
+- crear proyecto django: django-admin startproject nombre del proyecto . (El punto es para que no cree otra carpeta)
+- crear una aplicación: python manage.py starapp nombre de la app
+- correr server: python manage.py runserver
