@@ -7,3 +7,5 @@ crear entorno virtual:
 - crear proyecto django: django-admin startproject nombre del proyecto . (El punto es para que no cree otra carpeta)
 - crear una aplicación: python manage.py starapp nombre de la app
 - correr server: python manage.py runserver
+- hacer migraciones: py manage.py makemigrations
+- ejecutar las migraciones: py manage.py migrations
